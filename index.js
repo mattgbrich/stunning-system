@@ -1,6 +1,6 @@
-var zzz = 2;
+var two = 2;
 var y = 2;
 
 function add () {
-  return zzz + y;
+  return two + y;
 }
